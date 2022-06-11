@@ -1,1 +1,3 @@
-Hello, World!
+**Hello, World!**
+
+Осваиваем Git
