@@ -5,3 +5,5 @@
 git log - посмотреть commit
 
 git checkout - перейти на commit
+
+asdfgh
